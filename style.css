@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(80deg, rgb(255, 180, 0)  20%, black 20%);
+    
+}
+
+
+.img{
+   border-radius: 50px;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.3);
+    display: flex;
+
+}
+.h1{
+    color: rgb(255, 180, 0);
+}
+.span {
+    color: white;
+}
+button {
+    border-radius: 20px;
+    background-color: rgb(255, 180, 0);
+    padding: 20px;
+
+}
+img{
+    border-radius: 20px;
+}
+.font{
+    padding-left: 20px;
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    color: rgb(255, 180, 0) ;
+    margin-left: 500px;
+}

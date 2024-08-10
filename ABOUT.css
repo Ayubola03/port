@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+.p1{
+    color: white;
+}
+.p2{
+    color: rgb(255, 180, 0);
+}
+.father{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.ab1{
+    color: white;
+
+}
+.task{
+    background-color: rgb(255, 180, 0) ;
+    padding: 10px;
+    border-radius: 15px;
+}

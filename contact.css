@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+
+
+.p1{
+    color: white;
+}
+.p2{
+    color: rgb(255, 180, 0);
+}
+.father{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.sky{
+    padding-right: 400px;
+    border-radius: 20px;
+    padding-bottom: 200px;
+    background-color: black;
+}
+.hit{
+    margin-left: 700px;
+    margin-top: 50px;
+}
+.ni{
+    width: 270px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: black;
+    
+}
+.ht{
+    width: 270px;
+    height: 30px;
+    border-radius: 10px;
+     background-color: black;
+}
+.cu{
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+     background-color: black;
+}
+
+.myt {
+    /* display: flex; */
+}
